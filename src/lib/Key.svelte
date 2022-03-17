@@ -1,14 +1,14 @@
 <script lang="ts">
-
+    export let key: Number;
 </script>
 
 <td>
-    3
+    {key}
 </td>
 
 <style>
     td {
-    padding: 0.5rem;
+    width: 25%;
     border-right: 1px solid #222;
     text-align: center;
     cursor: pointer;

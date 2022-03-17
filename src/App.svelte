@@ -17,28 +17,28 @@
   <Screen value={calculatorValue}/>
   <table>
     <tr>
-      <Key />
-      <Key />
-      <Key />
-      <Key />
+      <Key key={1}/>
+      <Key key={1}/>
+      <Key key={1}/>
+      <Key key={1}/>
     </tr>
     <tr>
-      <Key />
-      <Key />
-      <Key />
-      <Key />
+      <Key key={1}/>
+      <Key key={1}/>
+      <Key key={1}/>
+      <Key key={1}/>
     </tr>
     <tr>
-      <Key />
-      <Key />
-      <Key />
-      <Key />
+      <Key key={1}/>
+      <Key key={1}/>
+      <Key key={1}/>
+      <Key key={1}/>
     </tr>
     <tr>
-      <Key />
-      <Key />
-      <Key />
-      <Key />
+      <Key key={1}/>
+      <Key key={1}/>
+      <Key key={1}/>
+      <Key key={1}/>
     </tr>
   </table>
 </main>
